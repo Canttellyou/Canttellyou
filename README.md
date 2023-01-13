@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason Akbar</h1>
-<h3 align="center">I am a highly motivated software engineer with expertise in JavaScript, CSS, Python, C, C++, React.js, Next.js, Angular.js, Node.js, PHP, Data Analysis and Cloud Engineering. I am well organized, detail oriented, and a team player with prolific leadership and soft skills. I possess strong analytical research, and time management skills with a high degree of commitment to my work.</h3>
+<h3 align="center">I am a highly motivated software engineer with expertise in JavaScript, CSS, Python, C, React.js, Next.js, Angular.js, Node.js, Data Analysis and Cloud Engineering. I am well organized, detail oriented, and a team player with prolific leadership and soft skills. I possess strong analytical research, and time management skills with a high degree of commitment to my work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canttellyou&label=Profile%20views&color=0e75b6&style=flat" alt="canttellyou" /> </p>
 
