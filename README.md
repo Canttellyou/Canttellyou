@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Akbar</h1>
 <h3 align="center">I am a highly motivated software engineer with expertise in JavaScript, TypeScript, CSS, Scss, React.js,
-    Next.js, Angular.js. I am well organized, detail oriented, and a team
+    Next.js, Angular.js and React Native. I am well organized, detail oriented, and a team
     player with prolific leadership and soft skills. I possess strong analytical research, and time management skills
     with a high degree of commitment to my work.</h3>
 
